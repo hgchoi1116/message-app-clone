@@ -1,6 +1,7 @@
 CSS Notes
 
 ref. https://developer.mozilla.org/en-US/docs/Web/CSS
+icons. https://heroicons.com/ , https://fontawesome.com/
 
 Cascading: reading the code top to bottom
 if two properties are added to same tag, style that comes later will apply
