@@ -1,4 +1,8 @@
 .status-bar {
+  position: sticky; /*keeps it on the same spot when scrolling*/
+  top: 0;
+  width: 100%;
+  box-sizing: border-box; /* fixes the box size regardless of padding/margin*/
   display: flex;
   justify-content: center;
   padding: 5px 3px;
