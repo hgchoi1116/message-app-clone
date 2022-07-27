@@ -5,18 +5,16 @@
   padding: 15px 0px;
   font-size: 18px;
   margin-bottom: 15px;
+  margin-top: -15px;
 }
 
 #friends-display-link i {
-  color: rgba(0, 0, 0, 0.3);
+  color: var(--font-gray);
 }
 
-.friends-screen {
-  padding: 0px var(--horizontal-space);
-}
 .friends-screen__channel {
   margin-top: 25px;
-  border-top: 1px solid rgb(0, 0, 0, 0.2);
+  border-top: var(--main-border);
   padding-top: 15px;
 }
 
@@ -24,9 +22,5 @@
   margin-bottom: 30px;
   display: flex;
   justify-content: space-between;
-  color: rgba(0, 0, 0, 0.5);
-}
-
-.user-component__column:last-child {
-  color: rgba(0, 0, 0, 0.5);
+  color: var(--font-gray);
 }
