@@ -28,3 +28,7 @@ body {
   padding: 0px var(--horizontal-space);
   margin-bottom: 73px;
 }
+
+.main-screen .chat {
+  margin-bottom: 10px;
+}
