@@ -4,7 +4,7 @@ Using HTML, CSS
 
 Website: https://hgchoi1116.github.io/message-app-clone/
 
-Purpose: to clone a texting application to demonstrate HTML and CSS skills
+Purpose: to clone the KakaoTalk application display to demonstrate HTML and CSS skills
 
 Folder Organization:
 - main folder has all the html files that can be navigated by using navigation bar and buttons (log in, setting)
@@ -13,5 +13,4 @@ Folder Organization:
 - pics folder has images that are used in the project. Most of the icons are from fontawesome.com
 - screenshot folder has screenshots of the actual application that I cloned
 
-The project is designed to minic the display of the KakaoTalk application using HTML and CSS.
 There are some animations that makes it exciting!
